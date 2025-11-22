@@ -2,7 +2,7 @@
 
 A modern **Car Rental** platform built with the **MERN stack**, offering users a seamless car booking experience and owners an interactive dashboard to manage cars, bookings, and revenue.
 
-🟢 **Live Demo:** [https://car-rental-client-nu.vercel.app](https://car-rental-client-nu.vercel.app)
+🟢 **Live Demo:** [https://full-stack-car-rental-booking-app-o.vercel.app/](https://full-stack-car-rental-booking-app-o.vercel.app)
 
 ---
 
