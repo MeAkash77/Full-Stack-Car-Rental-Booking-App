@@ -65,7 +65,7 @@ car-rental/
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/Jay-me07/CarRental.git
+   git clone https://github.com/MeAkash77/Full-Stack-Car-Rental-Booking-App.git
    cd car-rental
 
 2.cd server
@@ -83,6 +83,7 @@ IMAGEKIT_URL_ENDPOINT=your_imagekit_url
 
 5. Run the App:
    # In root directory
+   
 cd server && npm run server 
 cd client && npm run dev
 
